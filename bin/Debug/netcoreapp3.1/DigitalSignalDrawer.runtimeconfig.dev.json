@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\trofk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\trofk\\.nuget\\packages"
+    ]
+  }
+}

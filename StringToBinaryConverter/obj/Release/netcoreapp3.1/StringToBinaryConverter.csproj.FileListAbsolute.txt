@@ -1,0 +1,6 @@
+C:\Users\trofk\source\repos\DigitalSignalDrawer\StringToBinaryConverter\bin\Release\netcoreapp3.1\StringToBinaryConverter.deps.json
+C:\Users\trofk\source\repos\DigitalSignalDrawer\StringToBinaryConverter\bin\Release\netcoreapp3.1\StringToBinaryConverter.dll
+C:\Users\trofk\source\repos\DigitalSignalDrawer\StringToBinaryConverter\bin\Release\netcoreapp3.1\StringToBinaryConverter.pdb
+C:\Users\trofk\source\repos\DigitalSignalDrawer\StringToBinaryConverter\obj\Release\netcoreapp3.1\StringToBinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\trofk\source\repos\DigitalSignalDrawer\StringToBinaryConverter\obj\Release\netcoreapp3.1\StringToBinaryConverter.dll
+C:\Users\trofk\source\repos\DigitalSignalDrawer\StringToBinaryConverter\obj\Release\netcoreapp3.1\StringToBinaryConverter.pdb

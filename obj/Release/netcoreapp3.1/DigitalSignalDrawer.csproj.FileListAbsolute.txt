@@ -1,0 +1,6 @@
+C:\Users\trofk\source\repos\DigitalSignalDrawer\obj\Release\netcoreapp3.1\DigitalSignalDrawer.csprojAssemblyReference.cache
+C:\Users\trofk\source\repos\DigitalSignalDrawer\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\trofk\source\repos\DigitalSignalDrawer\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\trofk\source\repos\DigitalSignalDrawer\obj\Release\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\trofk\source\repos\DigitalSignalDrawer\obj\Release\netcoreapp3.1\DigitalSignalDrawer_MarkupCompile.cache
+C:\Users\trofk\source\repos\DigitalSignalDrawer\obj\Release\netcoreapp3.1\DigitalSignalDrawer_MarkupCompile.lref

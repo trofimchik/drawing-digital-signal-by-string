@@ -1,0 +1,6 @@
+C:\Users\trofk\source\repos\DigitalSignalDrawer\LineCoordinatesCreatorByString\bin\Debug\netcoreapp3.1\LineCoordinatesCreatorByString.deps.json
+C:\Users\trofk\source\repos\DigitalSignalDrawer\LineCoordinatesCreatorByString\bin\Debug\netcoreapp3.1\LineCoordinatesCreatorByString.dll
+C:\Users\trofk\source\repos\DigitalSignalDrawer\LineCoordinatesCreatorByString\bin\Debug\netcoreapp3.1\LineCoordinatesCreatorByString.pdb
+C:\Users\trofk\source\repos\DigitalSignalDrawer\LineCoordinatesCreatorByString\obj\Debug\netcoreapp3.1\LineCoordinatesCreatorByString.csproj.CoreCompileInputs.cache
+C:\Users\trofk\source\repos\DigitalSignalDrawer\LineCoordinatesCreatorByString\obj\Debug\netcoreapp3.1\LineCoordinatesCreatorByString.dll
+C:\Users\trofk\source\repos\DigitalSignalDrawer\LineCoordinatesCreatorByString\obj\Debug\netcoreapp3.1\LineCoordinatesCreatorByString.pdb
